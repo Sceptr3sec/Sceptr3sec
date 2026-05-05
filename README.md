@@ -4,6 +4,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Sceptr3)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/prot0securescep1)
 [![LabEx](https://img.shields.io/badge/LabEx--004cfc?style=flat&labelColor=004cfc&logo=bitrise)](https://labex.io/u/timothy-grant-81613343)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp--030e29?style=flat&labelColor=030e29&logo=freecodecamp)](https://www.freecodecamp.org/sceptr3)
 
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
